@@ -1,6 +1,3 @@
-![About](https://img.shields.io/badge/Readme-Blue.svg?style=for-the-badge&labelColor=white&color=blue&label=XXXXXXXL)
-
-
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shameemshameta&label=Profile%20views&color=0e75b6&style=flat" alt="shameemshameta" /> </p>
 
